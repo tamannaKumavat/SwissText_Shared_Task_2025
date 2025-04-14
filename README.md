@@ -69,6 +69,18 @@ We propose and/or implemented several enhancements:
 - **Submission Deadline**: 30th April 2025  
 - **Organizers**: Guang Lu (HSLU), Susie Xi Rao & Noah Mamie (ETHZ), Janna Lipenkova (Equintel)
 
+
+# TODO:
+- [ ] clean up the code 
+- [ ] run the evaluation 
+- [ ] generate new QAs with deepssek and save the results 
+- [ ] run the existing RAG with ours QA pairs and save the results 
+- [ ] run the existing RAG with deepssek QA pairs and save the results 
+- [ ] implement hybrid retrieval and run the RAG 
+- [ ] implement different embeddings and run the RAG
+- [ ] implement query parapraphase and the run the RAG
+
+
 ## 📫 Contact
 
 For questions about our solution or this repo, feel free to open an issue or contact us.
