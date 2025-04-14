@@ -71,14 +71,14 @@ We propose and/or implemented several enhancements:
 
 
 # TODO:
-- [ ] clean up the code 
-- [ ] run the evaluation 
-- [ ] generate new QAs with deepssek and save the results 
-- [ ] run the existing RAG with ours QA pairs and save the results 
-- [ ] run the existing RAG with deepssek QA pairs and save the results 
-- [ ] implement hybrid retrieval and run the RAG 
-- [ ] implement different embeddings and run the RAG
-- [ ] implement query parapraphase and the run the RAG
+- [ ] clean up the code -> for all 
+- [ ] run the evaluation -> Stelios 
+- [ ] generate new QAs with deepssek and save the results -> Daria 
+- [ ] run the existing RAG with ours QA pairs and save the results -> Tammana
+- [ ] run the existing RAG with deepssek QA pairs and save the results -> Tammana 
+- [ ] implement hybrid retrieval and run the RAG -> Daria 
+- [ ] implement different embeddings and run the RAG -> Stelios 
+- [ ] implement query parapraphase and the run the RAG -> Stelios 
 
 
 ## 📫 Contact
