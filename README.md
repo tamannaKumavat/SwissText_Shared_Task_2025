@@ -80,6 +80,9 @@ We propose and/or implemented several enhancements:
 - [ ] implement different embeddings and run the RAG -> Stelios 
 - [ ] implement query parapraphase and the run the RAG -> Stelios 
 
+# Datasets:
+- [data.zip](https://drive.google.com/file/d/1nnaKtOk0VkzrEYpRDQbpk-EABKzWnD4D/view?usp=drive_link)
+- [datasets.zip](https://drive.google.com/file/d/1hT_VCmRUEw_AN4AzRBJHEKSBHnUpD6Oo/view?usp=drive_link)
 
 ## 📫 Contact
 
