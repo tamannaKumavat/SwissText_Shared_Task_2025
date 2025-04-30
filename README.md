@@ -1,22 +1,22 @@
 # SwissTEXT 2025 Shared Task – Stage 3: RAG System for Cleantech QA
 
 This repository contains our solution for Stage 3 of the SwissTEXT 2025 Shared Task:  
-**"Accelerating Cleantech Advancements through NLP-powered Text Mining and Knowledge Extraction"**.
+**"Accelerating Cleantech Advancements through NLP powered Text Mining and Knowledge Extraction"**.
 
-## 🧠 Goal
+## Goal
 
-Our team focuses on implementing a RAG-based QA system that extracts insights from cleantech media and patent datasets. We worked on:
+Our team focuses on implementing a RAG based QA system that extracts insights from cleantech media and patent datasets. We worked on:
 
 - Generating and categorizing QA pairs using LLMs
 - Testing and evaluating the baseline RAG system
 - Proposing enhancements based on current research
 
-## 📂 Project Structure
+##  Project Structure
 
 We provide three Jupyter notebooks to cover the three main stages of our work:
 
 ### 1. QA Pair Generation and Categorization  
-🔗 [QA_Pairs.ipynb](./QA_Pairs.ipynb)
+ [QA_Pairs.ipynb](./QA_Pairs.ipynb)
 
 - We manually selected cleantech-related topics and split both the Cleantech Media and Patent datasets accordingly.
 - Used **LLaMA 3.2 Instruct** to generate QA pairs from selected paragraphs.
@@ -45,14 +45,14 @@ We provide three Jupyter notebooks to cover the three main stages of our work:
     - **Standalone Clarity**: Is the question understandable without context?
 
 ### 2. Baseline RAG Evaluation  
-🔗 [cleantech_rag.ipynb](cleantech_rag.ipynb)
+ [cleantech_rag.ipynb](cleantech_rag.ipynb)
 
 - Used the tutorial implementation from [Prof. Dr. Daniel Perruchoud](https://github.com/LuciferUchiha/Cleantech-RAG).
 - Evaluated the RAG system on both the seed dataset and our generated QA pairs.
 - Assessed the system performance based on question category and content relevance.
 
 ### 3. RAG System Improvements  
-🔗 [RAG_Enhancements.ipynb](./RAG_Enhancements.ipynb)
+ [RAG_Enhancements.ipynb](./RAG_Enhancements.ipynb)
 
 We propose and/or implemented several enhancements:
 
@@ -63,22 +63,12 @@ We propose and/or implemented several enhancements:
     - Combine dense semantic search with BM25 lexical search.
     - Merge top-k results using **Reciprocal Rank Fusion**.
 
-## 📅 Timeline
+##  Timeline
 
 - **Task Released**: 1st February 2025  
 - **Submission Deadline**: 30th April 2025  
 - **Organizers**: Guang Lu (HSLU), Susie Xi Rao & Noah Mamie (ETHZ), Janna Lipenkova (Equintel)
 
-
-# TODO:
-- [ ] clean up the code -> for all 
-- [ ] run the evaluation -> Stelios 
-- [ ] generate new QAs with deepssek and save the results -> Daria 
-- [ ] run the existing RAG with ours QA pairs and save the results -> Tammana
-- [ ] run the existing RAG with deepssek QA pairs and save the results -> Tammana 
-- [ ] implement hybrid retrieval and run the RAG -> Daria 
-- [ ] implement different embeddings and run the RAG -> Stelios 
-- [ ] implement query parapraphase and the run the RAG -> Stelios 
 
 # Datasets:
 - [data.zip](https://drive.google.com/file/d/1nnaKtOk0VkzrEYpRDQbpk-EABKzWnD4D/view?usp=drive_link)
@@ -89,5 +79,3 @@ We propose and/or implemented several enhancements:
 For questions about our solution or this repo, feel free to open an issue or contact us.
 
 ---
-
-_This project contributes toward cleantech innovation and supports environmental sustainability through AI and NLP research._
