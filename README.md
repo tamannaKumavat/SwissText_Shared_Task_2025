@@ -15,6 +15,9 @@ Our team focuses on implementing a RAG based QA system that extracts insights fr
 
 We provide three Jupyter notebooks to cover the three main stages of our work:
 
+> **Note
+Due to dependency issues, we were unable to convert completely the cleantech_rag.ipynb and cleantech_rag_improvents.ipynb notebooks to HTML. These notebooks are available only in their original .ipynb format and must be downloaded to be viewed fully.
+
 ### 1. QA Pair Generation and Categorization  
  [QA_Pairs.ipynb](./QA_Pairs.ipynb)
 
