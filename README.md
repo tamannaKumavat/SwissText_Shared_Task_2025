@@ -81,4 +81,8 @@ We propose and/or implemented several enhancements:
 
 For questions about our solution or this repo, feel free to open an issue or contact us.
 
+Tamanna Surendar Kumavat tamannasurendar.kumavat@uzh.ch
+Darya Zaremohazabiyeh darya.zaremohazabiyeh@uzh.ch
+Stylianos Psychias stylianos.psychias@uzh.ch
+
 ---
