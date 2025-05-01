@@ -77,7 +77,7 @@ We propose and/or implemented several enhancements:
 - [data.zip](https://drive.google.com/file/d/1nnaKtOk0VkzrEYpRDQbpk-EABKzWnD4D/view?usp=drive_link)
 - [datasets.zip](https://drive.google.com/file/d/1hT_VCmRUEw_AN4AzRBJHEKSBHnUpD6Oo/view?usp=drive_link)
 
-## 📫 Contact
+## Contact
 
 For questions about our solution or this repo, feel free to open an issue or contact us.
 
